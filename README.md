@@ -1,1 +1,1 @@
-It is an TicTocToe game implemented in CPP.
+It is the TicTocToe game implemented in CPP.
